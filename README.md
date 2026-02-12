@@ -336,7 +336,7 @@ This project demonstrates:
 This is a learning project demonstrating OOP principles. Feel free to:
 - Add new features
 - Implement database integration
-- Add unit tests
+- Add unit test
 - Improve documentation
 
 ## 📄 License
