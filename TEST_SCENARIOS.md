@@ -44,7 +44,7 @@ try {
     system.registerUser("not-an-email", "Pass123", "Bob", "Smith", "+15550102");
     // Expected: IllegalArgumentException thrown
 } catch (IllegalArgumentException e) {
-    // "Invalid email format"
+    // "Invalid Email format"
 }
 ```
 
